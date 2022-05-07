@@ -1,4 +1,5 @@
 import express from 'express';
+import cors from 'cors';
 import { routes } from './routes';
 
 const app = express();
@@ -11,6 +12,7 @@ const app = express();
 // PATCH = Atualizar informaçao única de uma entidade
 // DELETE = Deletar uma informaçao
 
+app.use(cors());
 app.use(express.json());
 app.use(routes);
 
