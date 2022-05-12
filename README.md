@@ -1,7 +1,7 @@
-<!-- <p align="center">
-  <img alt="Next Level Week #8" src="web\src\assets\nlw-banner.png" />
+<p align="center">
+  <img alt="Next Level Week #8" src="src/assets/nlw-banner.png" />
 </p>
- -->
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
